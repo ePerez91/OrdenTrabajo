@@ -1,0 +1,6 @@
+org/micomupu/ot/repository/OrdenTrabajoRepository.class
+org/micomupu/ot/service/OrdenService.class
+org/micomupu/ot/model/Equipo.class
+org/micomupu/ot/model/Trabajo.class
+org/micomupu/ot/repository/OrdenTrabajoRepositoryImpl.class
+org/micomupu/ot/service/OrdenServiceImpl.class
